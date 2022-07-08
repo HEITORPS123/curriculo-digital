@@ -43,7 +43,7 @@ _______________________________________
 
 ### Projetos
 _______________________________________
-https://github.com/HEITORPS123/app-monitoramento-web-phish
+[App de Monitoramento de Phishing (Crawler)](https://github.com/HEITORPS123/app-monitoramento-web-phish).
 
 (Profissional)
 
@@ -52,7 +52,7 @@ Aplicação de monitoramento e recuperação de páginas de phishing feita com J
 _______________________________________
 
 _______________________________________
-https://github.com/HEITORPS123/Engenharia_de_Software_TP1
+[Site para Anúncio de Estágios](https://github.com/HEITORPS123/Engenharia_de_Software_TP1).
 
 (Pessoal)
 
