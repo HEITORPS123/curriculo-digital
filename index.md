@@ -59,5 +59,20 @@ _______________________________________
 Página web para anúncio e procura de vagas de estágio. Feito com tecnologia Java Web (JSF) e Bootstrap.
 
 _______________________________________
+
+### Linguagens
+_______________________________________
+
+**Português:** Nativo
+
+**Inglês:** C2
+
+_______________________________________
+
 ### Mais Informações
 
+**Telefone:** (32)99832-8903
+
+**E-mail:** heitordepaulasantos@hotmail.com
+
+[Linkedin](https://www.linkedin.com/in/heitor-de-paula-santos-damasceno-ab4096212/).
