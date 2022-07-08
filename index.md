@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Heitor de Paula Santos Damasceno
 
-You can use the [editor on GitHub](https://github.com/HEITORPS123/curriculo-digital/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Experiência Profissional
+_______________________________________
+**Desenvolvedor Java, QUASAR Desenvolvimento de Sistemas**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+(Agosto 2021 - Janeiro 2022)
 
-### Markdown
+Utilizou tecnologia Java Web (JSF) para o desenvolvimento de aplicações web para prefeituras,
+especificamente o projeto Armazém-Web.
+_______________________________________
+_______________________________________
+**Desenvolvedor Backend Javascript (NodeJS), Softruck**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(Março 2022 - Atual)
 
-```markdown
-Syntax highlighted code block
+Utilizou tecnologia Javascript (Typescript mais especificamente) para desenvolvimento de Gateways que efetuam comunicação com rastreadores veiculares.
+_______________________________________
 
-# Header 1
-## Header 2
-### Header 3
+### Educação
+_______________________________________
+**Bacharelado em Ciência da Computação na Universidade Federal de Minas Gerais** 
 
-- Bulleted
-- List
+(Março 2019 - Presente)
 
-1. Numbered
-2. List
+**NSG Média**: 91
+_______________________________________
+### Artigos Publicados
+_______________________________________
+**Monitoramento e Identificação de Páginas de Phishing (2021)**
 
-**Bold** and _Italic_ and `Code` text
+DAMASCENO, Heitor et al. Monitoramento e Identificação de Páginas de Phishing. In: SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS (SBRC), 39. , 2021, Uberlândia. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021 . p. 378-391. ISSN 2177-9384. DOI: https://doi.org/10.5753/sbrc.2021.16734. 
 
-[Link](url) and ![Image](src)
+Resumo:
 ```
+Campanhas de phishing frequentemente utilizam páginas Web que imitam páginas legítimas para enganar as vítimas. Apesar dos esforços da comunidade cientíﬁca em combater essa atividade, o phishing ﬁca cada vez mais soﬁsticado e continua fazendo vítimas. Neste artigo apresentamos um novo arcabouço de monitoramento de páginas de phishing que combina técnicas que proveem escalabilidade e efetividade. Também estudamos os compromissos existentes na complexa tarefa de construir modelos para identiﬁcar páginas de phishing. Mostramos que bases de dados representativas e atributos do conteúdo das páginas são cruciais para construir modelos gerais. Nosso arcabouço de monitoramento e identiﬁcação de páginas de phishing foi aplicado a centenas de milhares de e-mails diários, identiﬁcando uma centena de páginas de phishing, uma redução de três ordens de magnitude, e serve também de ponto de partida para direcionar esforços futuros de combate ao phishing.
+```
+_______________________________________
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Projetos
+_______________________________________
+https://github.com/HEITORPS123/app-monitoramento-web-phish
 
-### Jekyll Themes
+(Profissional)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HEITORPS123/curriculo-digital/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Aplicação de monitoramento e recuperação de páginas de phishing feita com Java e Bashscript, que também usa Firefox headless controlado pelo Selenium e auxiliado do Browsermob Proxy em múltiplas threads para garantir um crawler mais robusto e escalável.
+_______________________________________
+_______________________________________
+https://github.com/HEITORPS123/Engenharia_de_Software_TP1
 
-### Support or Contact
+(Pessoal)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Página web para anúncio e procura de vagas de estágio. Feito com tecnologia Java Web (JSF) e Bootstrap.
+_______________________________________
+### Mais Informações
+
