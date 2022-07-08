@@ -8,13 +8,16 @@ _______________________________________
 
 Utilizou tecnologia Java Web (JSF) para o desenvolvimento de aplicações web para prefeituras,
 especificamente o projeto Armazém-Web.
+
 _______________________________________
+
 _______________________________________
 **Desenvolvedor Backend Javascript (NodeJS), Softruck**
 
 (Março 2022 - Atual)
 
 Utilizou tecnologia Javascript (Typescript mais especificamente) para desenvolvimento de Gateways que efetuam comunicação com rastreadores veiculares.
+
 _______________________________________
 
 ### Educação
@@ -24,6 +27,7 @@ _______________________________________
 (Março 2019 - Presente)
 
 **NSG Média**: 91
+
 _______________________________________
 ### Artigos Publicados
 _______________________________________
@@ -44,13 +48,16 @@ https://github.com/HEITORPS123/app-monitoramento-web-phish
 (Profissional)
 
 Aplicação de monitoramento e recuperação de páginas de phishing feita com Java e Bashscript, que também usa Firefox headless controlado pelo Selenium e auxiliado do Browsermob Proxy em múltiplas threads para garantir um crawler mais robusto e escalável.
+
 _______________________________________
+
 _______________________________________
 https://github.com/HEITORPS123/Engenharia_de_Software_TP1
 
 (Pessoal)
 
 Página web para anúncio e procura de vagas de estágio. Feito com tecnologia Java Web (JSF) e Bootstrap.
+
 _______________________________________
 ### Mais Informações
 
